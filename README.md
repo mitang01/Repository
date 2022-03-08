@@ -1,8 +1,8 @@
 ## Happy Experiment Bundle
 
 Run opensesame on Anaconda: 
-<conda activate opensesame-py3>
-<opensesame>
+"conda activate opensesame-py3"
+"opensesame"
 
 **Python inline scripts for OpenSesame + OpenSesame script**
   1. Show average accuracy to participants as feedback
