@@ -9,8 +9,7 @@ Run opensesame on Anaconda:
   2. Oddball and ERP trigger
   
 **R script for behaviroal data-washing and glme statistics**
-(based on data files from OpenSesame)
-glmer.r
+(based on data files from OpenSesame): glme.r
   
 **R script for plotting bar chart with jittered raw data and significance annotation**
   
