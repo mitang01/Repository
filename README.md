@@ -4,7 +4,7 @@ Run opensesame on Anaconda:
 "conda activate opensesame-py3";
 "opensesame"
 
-**Python inline scripts for OpenSesame + OpenSesame script**
+**OpenSesame script with Python inline scripts inside**
   1. Show average accuracy to participants as feedback
   2. Oddball and ERP trigger
   
