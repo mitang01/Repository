@@ -1,7 +1,7 @@
 ## Happy Experiment Bundle
 
 Run opensesame on Anaconda: 
-"conda activate opensesame-py3"
+"conda activate opensesame-py3";
 "opensesame"
 
 **Python inline scripts for OpenSesame + OpenSesame script**
