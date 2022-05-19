@@ -1,4 +1,4 @@
-## Happy Experiment Bundle
+## Repository Experiment Programming and Data Pre-processing
 
 Run opensesame on Anaconda: 
 "conda activate opensesame-py3";
