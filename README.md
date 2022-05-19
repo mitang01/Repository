@@ -14,6 +14,8 @@ Run opensesame on Anaconda:
 **R script for plotting bar chart with jittered raw data and significance annotation**
   
   
-**EEG data analysis**
-  1. locolization file of biosemi 32 channel
- 
+**EEG**
+  1. configuration file for biosemi: 1024 hz online recording, auto-unpause, 50 hz online notch filtering (not included yet). 
+  2. locolization file of biosemi 32 channel (use it in EEGLAB)
+  3. Matlab script: in a study set of 18 participants, first run a 50 hz notch filtering, and then a 0.01-30 hz passband filtering. 
+
